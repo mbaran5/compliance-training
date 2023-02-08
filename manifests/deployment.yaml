@@ -28,4 +28,3 @@ spec:
         ports:
         - containerPort: 80
         securityContext:
-          runAsUser: 0
